@@ -1,6 +1,6 @@
 # Phase2.1MissingRPackage
 This is the code for Informative Missingness: What can we learn from patterns in missing laboratory data in the electronic health record?
-[Phase2.1MissingRPackage](https://pubmed.ncbi.nlm.nih.gov/36738870/)
+[Link to paper](https://pubmed.ncbi.nlm.nih.gov/36738870/)
 
 R code to run, validate, and submit the analysis.
 
