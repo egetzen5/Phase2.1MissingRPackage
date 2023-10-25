@@ -1,5 +1,7 @@
 # Phase2.1MissingRPackage
-R code to run, validate, and submit the analysis for the Missing project.
+This is the code for Informative Missingness: What can we learn from patterns in missing laboratory data in the electronic health record?
+Phase2.1MissingRPackage
+R code to run, validate, and submit the analysis.
 
 *** We are stratifying analyses by three time periods: 
 1) 1/01/2020 to 07/30/2020 ("phase_1")
